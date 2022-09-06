@@ -7,10 +7,10 @@ public class Test
                public static void main (String[] args)    {
 
                       Scanner keyboard = new Scanner(System.in);
-                       System.out.print("enter a number  should show up as changes in github");
+                       System.out.print("enter a number  should show up as changes in github second attempt");
 
                        double guess=0;
-                       double i=0;    //this should pop up as my changes
+                       double i=0;    //this should pop up as my changes for the second attempt
                        guess=i+0;
                     do
                     {
